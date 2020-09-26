@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="19197" started-at="2020-09-25T10:13:01Z" finished-at="2020-09-25T10:13:20Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="19197" started-at="2020-09-25T10:13:01Z" finished-at="2020-09-25T10:13:20Z">
+      <class name="planit.tests.TS_01_ItemBooking">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:planit.tests.TS_01_ItemBooking@32d992b2]" name="beforeClass" is-config="true" duration-ms="8117" started-at="2020-09-25T15:43:01Z" finished-at="2020-09-25T15:43:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:planit.tests.TS_01_ItemBooking@32d992b2]" name="beforeMethod" is-config="true" duration-ms="2345" started-at="2020-09-25T15:43:09Z" finished-at="2020-09-25T15:43:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC_01_ValidateCreatingProgramWithAllFields()[pri:0, instance:planit.tests.TS_01_ItemBooking@32d992b2]" name="TC_01_ValidateCreatingProgramWithAllFields" duration-ms="7929" started-at="2020-09-25T15:43:11Z" description="This testcase is related to product booking" finished-at="2020-09-25T15:43:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_ValidateCreatingProgramWithAllFields -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:planit.tests.TS_01_ItemBooking@32d992b2]" name="afterClass" is-config="true" duration-ms="775" started-at="2020-09-25T15:43:19Z" finished-at="2020-09-25T15:43:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:planit.tests.TS_01_ItemBooking@32d992b2]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-09-25T15:43:19Z" finished-at="2020-09-25T15:43:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- planit.tests.TS_01_ItemBooking -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
